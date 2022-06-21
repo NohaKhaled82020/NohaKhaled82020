@@ -1,12 +1,12 @@
-<div align="center" width="300px" height="300px">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" >
+<div align="center">
+   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" align="center" width="300px" height="300px">
 </div>
 
 <h1 align="center">Hi 👋, I'm Noha Khaled</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Frontend Projects(Angular)<br><br>🌱 I’m currently learning everything about Frontend technologies like(Ionic, WordPress).)<br><br>👯 I’m looking to collaborate on Angular based projects<br><br>💬 Ask me about HTML5, CSS3, JavaScript(ES6), Angular and Ionic<br><br>📫 How to reach me nohakhaled82020@gmail.com<br><br>⚡ Fun fact Always learning new things
+🔭 I’m currently working on Frontend Projects(Angular)<br><br>🌱 I’m currently learning everything about Frontend technologies like(Ionic, WordPress).<br><br>👯 I’m looking to collaborate on Angular based projects<br><br>💬 Ask me about HTML5, CSS3, JavaScript(ES6), Angular and Ionic<br><br>📫 How to reach me nohakhaled82020@gmail.com<br><br>⚡ Fun fact Always learning new things
 
 
 ## 🌐 Socials:
